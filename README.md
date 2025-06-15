@@ -1,5 +1,4 @@
 ﻿# Double-the-Value-Pointer
-This C++ code demonstrates how pointers can directly modify the value of a variable by referencing its memory address.
 
 Here's what happens:
 
