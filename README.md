@@ -8,4 +8,3 @@ Here's what happens:
 * `*ptr = (*ptr) * 2;` accesses the value at the address (i.e., `x`) and doubles it.
 * Finally, `cout << x;` prints the updated value.
 
-So, if the user enters `5`, the output will be `10`. Let me know if you'd like this explained with a [memory diagram](f) or a [step-by-step walkthrough](f).
